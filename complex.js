@@ -1,3 +1,10 @@
+/***********
+This is ComplexJS, a Javascript library that supports Complex Numbers
+Made by: HotdoGuy90
+Git Repo: https://github.com/HotdoGuy90/ComplexJS
+Version: 1.0.0
+***********/
+
 function Complex(real, imag) {
     this.real = real;
     this.imag = imag;
