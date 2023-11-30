@@ -13,7 +13,7 @@ Or you can just add it from the url like this:
 
 ```html
 <!--  Make sure to include this file before other script(s) earlier otherwise it/they won't have the ComplexJS library -->
-<script src="https://cdn.jsdelivr.net/gh/HotdoGuy90/ComplexJS/main/complex.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/HotdoGuy90/ComplexJS@master/complex.js"></script>
 ```
 
 ## Usage
