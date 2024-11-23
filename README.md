@@ -2,7 +2,7 @@
 A Javascript library that supports Complex Numbers.
 
 ## Installation
-To add it to your project just download the file and place it in or near the directory that has your "html" file. Then you can include it into your project like this:
+To add it to your project just download the file and place it in or near the directory that has your html file. Then you can include it into your project like this:
 
 ```html
 <!--  Make sure to include this file before other script(s) earlier otherwise it/they won't have the ComplexJS library -->
